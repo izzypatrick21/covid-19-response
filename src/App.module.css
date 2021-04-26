@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color:white;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.image {
+  width: 370px;
+  margin-top: 50px;
+  border-radius: 50%;
+}
+
+p {
+  margin-top: 2px;
+}
+
+@media (max-width : 770px){
+  .container {
+    margin: 0 10%;
+  }
+
+  .image{
+    width: 100%;
+  }
+}
