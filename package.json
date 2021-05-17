@@ -2,7 +2,7 @@
   "name": "covid19_tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{izzypatrick21}.github.io/{covid-19-response}",
+  "homepage": "http://izzypatrick21}.github.io/{covid-19-response",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.12.0",
